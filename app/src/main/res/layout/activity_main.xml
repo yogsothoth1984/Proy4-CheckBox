@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:text="Calcular"
         android:id="@+id/botonCalcular"
-        android:onClick=""/>
+        android:onClick="calcular"/>
 
     <CheckBox
         android:id="@+id/checkSumar"
